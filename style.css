@@ -190,6 +190,17 @@ a:hover {
     border-radius: 8px;
 }
 
+.media-gallery {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.media-gallery img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+}
 
 /* Footer */
 
