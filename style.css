@@ -5,6 +5,11 @@
     src: url("fonts/Molen Friend Demo.otf") format("opentype");
 }
 
+@font-face {
+    font-family: "FranxurterTotallyMedium-gxwjp";
+    src: url("fonts/FranxurterTotallyMedium-gxwjp.ttf") format("ttf");
+}
+
 
 body {
     margin: 0;
@@ -14,7 +19,7 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
 }
 
 
