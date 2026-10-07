@@ -102,7 +102,10 @@ section h2 {
 .hero {
     text-align: center;
     padding: 100px 30px;
-    background: #292f34;
+    background-image: url("images/HallPassTitle.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .hero h2 {
