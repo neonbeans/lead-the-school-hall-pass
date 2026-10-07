@@ -136,6 +136,14 @@ section h2 {
     background: #d2ffa4;
 }
 
+a {
+    color: #94e149;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d2ffa4;
+}
 
 /* Devlog */
 
