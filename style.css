@@ -18,11 +18,6 @@ body {
     color: #222;
 }
 
-h1, h2, h3 {
-    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
-}
-
-
 /* Header */
 
 header {
@@ -34,6 +29,7 @@ header {
 
 header h1 {
     margin: 0 0 15px;
+    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
 }
 
 
@@ -67,6 +63,7 @@ section {
 
 section h2 {
     font-size: 32px;
+    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
 }
 
 
