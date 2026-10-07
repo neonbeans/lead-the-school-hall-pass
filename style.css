@@ -124,7 +124,7 @@ section h2 {
     margin-top: 25px;
     padding: 12px 25px;
     border: none;
-    background: #222;
+    background: #131619;
     color: white;
     font-size: 16px;
     cursor: pointer;
@@ -133,7 +133,7 @@ section h2 {
 }
 
 .button:hover {
-    background: #444;
+    background: #d2ffa4;
 }
 
 
