@@ -117,7 +117,8 @@ section h2 {
 
 /* Button */
 
-button {
+.button {
+    display: inline-block;
     margin-top: 25px;
     padding: 12px 25px;
     border: none;
@@ -126,6 +127,11 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 10px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #444;
 }
 
 
