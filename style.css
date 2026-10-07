@@ -1,4 +1,4 @@
-/* General */
+/* Fonts */
 
 @font-face {
     font-family: "Molen Friend Demo";
@@ -6,26 +6,38 @@
 }
 
 @font-face {
-    font-family: "FranxurterTotallyMedium-gxwjp";
+    font-family: "FranxurterTotallyMedium";
     src: url("fonts/FranxurterTotallyMedium-gxwjp.ttf") format("truetype");
 }
 
-/* Normal text */
+
+/* General */
+
 body {
+    margin: 0;
     font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #222;
 }
 
-/* Website title */
+
+/* Website Title */
+
 header h1 {
     font-family: "Molen Friend Demo", sans-serif;
 }
 
+
 /* Headings */
-h2, h3 {
-    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
+
+h2,
+h3 {
+    font-family: "FranxurterTotallyMedium", sans-serif;
 }
 
-/* Paragraphs */
+
+/* Normal Paragraph Text */
+
 p {
     font-family: Arial, sans-serif;
 }
