@@ -17,7 +17,7 @@
 body {
     margin: 0;
     font-family: "DM Sans", sans-serif;
-    background: #121212;
+    background: #131619;
     color: #ffffff;
 }
 
@@ -25,7 +25,7 @@ body {
 
 header h1 {
     font-family: "Molen Friend Demo", sans-serif;
-    color: #ffffff;
+    color: #94e149;
 }
 
 
@@ -34,12 +34,12 @@ header h1 {
 h2,
 h3 {
     font-family: "FranxurterTotallyMedium", sans-serif;
-    color: #ffffff;
+    color: #94e149;
 }
 
 .hero h2 {
     font-family: "Molen Friend Demo", sans-serif;
-    color: #ffffff;
+    color: #94e149;
     font-size: 48px;
     margin-bottom: 15px;
 }
