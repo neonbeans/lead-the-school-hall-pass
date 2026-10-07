@@ -28,6 +28,10 @@ header h1 {
     color: #94e149;
 }
 
+/* Navigation */
+nav a {
+    font-family: "FranxurterTotallyMedium", sans-serif;
+}
 
 /* Headings */
 
