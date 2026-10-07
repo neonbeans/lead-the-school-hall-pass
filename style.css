@@ -10,6 +10,9 @@
     src: url("fonts/FranxurterTotallyMedium-gxwjp.ttf") format("truetype");
 }
 
+p {
+    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
+}
 
 body {
     margin: 0;
@@ -19,10 +22,6 @@ body {
 }
 
 hi, h2, h3 {
-    font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
-}
-
-p {
     font-family: "FranxurterTotallyMedium-gxwjp", sans-serif;
 }
 
