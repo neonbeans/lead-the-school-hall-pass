@@ -1,0 +1,132 @@
+/* General */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    color: #222;
+}
+
+
+/* Header */
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 15px;
+}
+
+
+/* Navigation */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* Main */
+
+main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+
+/* Sections */
+
+section {
+    padding: 60px 30px;
+}
+
+section h2 {
+    font-size: 32px;
+}
+
+
+/* Hero */
+
+.hero {
+    text-align: center;
+    padding: 100px 30px;
+    background: white;
+}
+
+.hero h2 {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+
+/* Button */
+
+button {
+    margin-top: 25px;
+    padding: 12px 25px;
+    border: none;
+    background: #222;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Devlog */
+
+.devlog-post {
+    background: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.devlog-post h3 {
+    margin-top: 0;
+}
+
+.date {
+    color: #777;
+}
+
+
+/* Characters */
+
+.character-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.character {
+    background: white;
+    padding: 20px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+
+/* Footer */
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
