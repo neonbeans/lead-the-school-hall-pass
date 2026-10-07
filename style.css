@@ -93,7 +93,7 @@ main {
 /* Sections */
 
 section {
-    padding: 60px 30px;
+    padding: 40px 30px;
 }
 
 section h2 {
@@ -106,7 +106,7 @@ section h2 {
 .hero {
     text-align: center;
     padding: 100px 30px;
-    margin: 15px;
+    margin: 30px;
     background-image: linear-gradient(rgba(19, 22, 25, 0.3), rgba(19, 22, 25, 0.5)),
                       url("images/HallPassTitle.png");
     background-size: cover;
