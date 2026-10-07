@@ -36,6 +36,11 @@ h3 {
     font-family: "FranxurterTotallyMedium", sans-serif;
 }
 
+.hero h2 {
+    font-family: "Molen Friend Demo", sans-serif;
+    font-size: 48px;
+    margin-bottom: 15px;
+}
 
 /* Normal Paragraph Text */
 
