@@ -178,11 +178,11 @@ a:hover {
 
 .devlog-post:hover {
     transform: translateY(-5px);
-    background: #252525;
+    background: #3E4448;
 }
 
 .date {
-    color: #777;
+    color: #3E4448;
 }
 
 
