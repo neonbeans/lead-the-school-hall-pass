@@ -163,7 +163,7 @@ a:hover {
 
 .devlog-navigation {
     display: inline-block;
-    justify-content: space-between;
+    justify-content: center;
     padding: 12px 25px;
     border: none;
     gap: 20px;
