@@ -202,13 +202,13 @@ a:hover {
 .devlog1 {
     background-image:
         linear-gradient(rgba(41, 47, 52, 0.3), rgba(41, 47, 52, 0.5)),
-        url("../images/26.7.1.png");
+        url("devlogs/images/26.7.1.png");
 }
 
 .devlog2 {
     background-image:
         linear-gradient(rgba(41, 47, 52, 0.3), rgba(41, 47, 52, 0.5)),
-        url("../images/26.7.2.png");
+        url("devlogs/images/26.7.2.png");
 }
 
 .devlog-link {
