@@ -170,6 +170,17 @@ a:hover {
     margin-top: 0;
 }
 
+.devlog-link {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+}
+
+.devlog-post:hover {
+    transform: translateY(-5px);
+    background: #252525;
+}
+
 .date {
     color: #777;
 }
