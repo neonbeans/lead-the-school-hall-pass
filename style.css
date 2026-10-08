@@ -221,6 +221,8 @@ a:hover {
     border-radius: 8px;
 }
 
+/* Media Gallery */
+
 .media-gallery {
     display: flex;
     gap: 20px;
@@ -230,6 +232,21 @@ a:hover {
 
 .media-gallery img {
     width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+}
+
+/* Devlog Gallery */
+
+.devlog-gallery {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.devlog-gallery img {
+    width: 200%;
     max-width: 400px;
     border-radius: 12px;
 }
