@@ -19,6 +19,7 @@ body {
     font-family: "DM Sans", sans-serif;
     background: #131619;
     color: #ffffff;
+    line-height: 1.4;
 }
 
 /* Website Title */
@@ -52,7 +53,7 @@ h3 {
 
 p {
     font-family: "DM Sans", sans-serif;
-    line-height: 1.5;
+    line-height: 1.4;
 }
 
 /* Header */
