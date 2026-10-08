@@ -29,24 +29,10 @@ header h1 {
     color: #94e149;
 }
 
-header h1 .lead {
-    color: #FFB500;
-}
-
-header h1 .the {
-    color: #FF050A;
-}
-
-header h1 .school {
-    color: #2C73FF;
-}
-
-header h1 .hall {
-    color: #FFCFB7;
-}
-
-header h1 .pass {
-    color: #E84E00;
+.site-logo {
+    width: 300px;
+    height: auto;
+    margin-bottom: 15px;
 }
 
 /* Navigation */
