@@ -163,9 +163,9 @@ a:hover {
 
 .devlog-navigation {
     display: inline-block;
+    justify-content: space-between;
     padding: 12px 25px;
     border: none;
-    justify-content: space-between;
     gap: 20px;
     margin-bottom: 10px;
     font-family: "FranxurterTotallyMedium", sans-serif;
