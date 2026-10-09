@@ -20,6 +20,18 @@ body {
     background: #131619;
     color: #ffffff;
     line-height: 1.4;
+    
+     background-image:
+        linear-gradient(
+            rgba(18, 18, 18, 0.85),
+            rgba(37, 32, 58, 0.9)
+        ),
+        url("images/bg.png");
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 /* Website Title */
