@@ -260,7 +260,7 @@ a:hover {
 }
 
 .character {
-    background: #292f34;
+    background: rgba(9, 12, 15, 0.5);
     padding: 20px;
     width: 200px;
     border-radius: 8px;
