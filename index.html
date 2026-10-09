@@ -127,5 +127,21 @@
         </h3>
     </footer>
 
+<script>
+    const updateBackground = () => {
+        const offset = window.scrollY * -0.08;
+        document.body.style.setProperty(
+            "--scroll-offset",
+            `${offset}px`
+        );
+    };
+
+    window.addEventListener("scroll", updateBackground, {
+        passive: true
+    });
+
+    updateBackground();
+</script>
+    
 </body>
 </html>
