@@ -17,11 +17,10 @@
 body {
     margin: 0;
     font-family: "DM Sans", sans-serif;
-    background: #131619;
     color: #ffffff;
     line-height: 1.4;
     
-    background-image:
+    background:
         linear-gradient(
             rgba(19, 22, 25, 0.7),
             rgba(19, 22, 25, 0.9)
