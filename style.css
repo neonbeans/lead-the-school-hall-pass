@@ -21,17 +21,22 @@ body {
     color: #ffffff;
     line-height: 1.4;
     
-     background-image:
+body::before {
+    content: "";
+    position: fixed;
+    inset: -10%;
+    z-index: -1;
+    pointer-events: none;
+
+     background:
         linear-gradient(
             rgba(19, 22, 25, 0.7),
             rgba(19, 22, 25, 0.9)
         ),
-        url("images/bg.png");
+        url("images/bg.png") center / cover no-repeat;
 
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    transform: translateY(var(--scroll-offset, 0px));
+    will-change: transform;
 }
 
 /* Website Title */
