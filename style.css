@@ -27,6 +27,8 @@ body {
 h1 {
     font-family: "Molen Friend Demo", sans-serif;
     color: #94e149;
+    font-size: 48px;
+    margin-bottom: 15px;
 }
 
 .site-logo {
