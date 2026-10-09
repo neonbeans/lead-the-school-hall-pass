@@ -21,22 +21,22 @@ body {
     color: #ffffff;
     line-height: 1.4;
     
-body::before {
-    content: "";
-    position: fixed;
-    inset: -10%;
-    z-index: -1;
-    pointer-events: none;
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
 
-     background:
+    background-image:
         linear-gradient(
             rgba(19, 22, 25, 0.7),
             rgba(19, 22, 25, 0.9)
         ),
-        url("images/bg.png") center / cover no-repeat;
+        url("images/bg.png");
 
-    transform: translateY(var(--scroll-offset, 0px));
-    will-change: transform;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 /* Website Title */
