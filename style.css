@@ -211,6 +211,12 @@ a:hover {
         url("devlogs/images/26.7.2.png");
 }
 
+.devlog3 {
+    background-image:
+        linear-gradient(rgba(41, 47, 52, 0.5), rgba(41, 47, 52, 0.7)),
+        url("devlogs/images/26.8.1.png");
+}
+
 .devlog-link {
     color: inherit;
     text-decoration: none;
