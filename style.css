@@ -23,8 +23,8 @@ body {
     
      background-image:
         linear-gradient(
-            rgba(18, 18, 18, 0.85),
-            rgba(37, 32, 58, 0.9)
+            rgba(19, 22, 25, 0.7),
+            rgba(19, 22, 25, 0.9)
         ),
         url("images/bg.png");
 
