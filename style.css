@@ -80,7 +80,7 @@ p {
 /* Header */
 
 header {
-    background: #090c0f;
+    background: rgba(9, 12, 15, 0.5);
     color: white;
     padding: 20px;
     text-align: center;
@@ -299,7 +299,7 @@ a:hover {
 /* Footer */
 
 footer {
-    background: #090c0f;
+    background: rgba(9, 12, 15, 0.5);
     color: white;
     text-align: center;
     padding: 30px;
