@@ -67,15 +67,15 @@ h1 {
     -webkit-mask-image: linear-gradient(
         to right,
         transparent 0%,
-        black 10%,
-        black 90%,
+        black 25%,
+        black 75%,
         transparent 100%
     );
     mask-image: linear-gradient(
         to right,
         transparent 0%,
-        black 10%,
-        black 90%,
+        black 25%,
+        black 75%,
         transparent 100%
     );
 }
