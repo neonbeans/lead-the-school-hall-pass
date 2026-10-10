@@ -60,6 +60,7 @@ h1 {
     border-bottom: 4px solid #ffcc55;
     padding: 12px 0;
     box-sizing: border-box;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.1);
     margin-top: 25px;
 }
 
