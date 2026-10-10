@@ -55,7 +55,7 @@ h1 {
     width: 100%;
     overflow: hidden;
     white-space: nowrap;
-    background: #111;
+    background: ##120e09;
     border-top: 2px solid #ffcc55;
     border-bottom: 2px solid #ffcc55;
     padding: 12px 0;
@@ -68,7 +68,6 @@ h1 {
     color: #ffcc55;
     font-family: "FranxurterTotallyMedium", sans-serif;
     font-size: 22px;
-    text-shadow: 0 0 8px #ffcc55;
     animation: marquee-scroll 18s linear infinite;
 }
 
