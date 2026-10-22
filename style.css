@@ -183,7 +183,7 @@ section h2 {
     padding: 100px 30px;
     margin: 30px;
     background-image: linear-gradient(rgba(19, 22, 25, 0.3), rgba(19, 22, 25, 0.5)),
-                      url("images/HallPassTitle.png");
+                      url("images/GameplayUpdate.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -289,6 +289,12 @@ a:hover {
     background-image:
         linear-gradient(rgba(41, 47, 52, 0.5), rgba(41, 47, 52, 0.7)),
         url("devlogs/images/26.9.1.png");
+}
+
+.devlog5 {
+    background-image:
+        linear-gradient(rgba(41, 47, 52, 0.5), rgba(41, 47, 52, 0.7)),
+        url("devlogs/images/26.10.1.png");
 }
 
 
