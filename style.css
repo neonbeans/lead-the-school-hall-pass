@@ -297,6 +297,7 @@ a:hover {
         url("devlogs/images/26.10.1.png");
 }
 
+.devlog6 {
     background-image:
         linear-gradient(rgba(41, 47, 52, 0.5), rgba(41, 47, 52, 0.7)),
         url("devlogs/images/26.11.1.png");
