@@ -358,6 +358,18 @@ a:hover {
     box-shadow: 0 0px 20px rgba(0, 0, 0, 0.2);
 }
 
+.devlog-card {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.devlog-card.latest:hover {
+    transform: translateY(-5px);
+}
+
+.devlog-card.previous:hover {
+    transform: translateY(-5px);
+}
+
 /* Footer */
 
 footer {
